@@ -1,0 +1,57 @@
+body {
+  background: #add8e6	
+}
+p{
+  text-align: center
+}
+
+#banner {
+	width: 50%;
+}
+
+.principal{
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+#MessiTitulo {
+  font-size: 50px
+}
+
+p {
+	text-align: center;
+	
+}
+
+
+#Introducao {
+  font-size: 20px
+}
+#missao {
+	font-size: 20px
+}
+
+#sheesh {
+  font-size: 25px
+}
+
+.itens {
+	font-style: italic
+}
+.benefícios {
+	padding: 20px;
+}
+
+
+.imagembeneficios{
+	width: 30%;
+  background : #add8e6
+}
+
+.imagembeneficios2{
+	width: 46.2%;
+  background : #add8e6
+}
